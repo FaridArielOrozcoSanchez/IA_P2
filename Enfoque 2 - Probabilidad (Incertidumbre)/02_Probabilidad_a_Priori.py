@@ -1,4 +1,4 @@
-# Enfoque 2 - Probabilidad (Incertidumbre)
+# Enfoque 2 - Probabilidad a Priori
 #3Farid Ariel Orozco Sanchez - 21310200
 # 6 E2 2do Parcial
 
@@ -30,3 +30,4 @@ plt.xlabel('Clase')                              # etiqueta del eje x
 plt.ylabel('Probabilidad a Priori')              # etiqueta del eje y
 plt.title('Probabilidades a Priori de Clases Simuladas')  # título del gráfico
 plt.show()                                       # muestra el gráfico en pantalla
+
